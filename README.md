@@ -4,9 +4,12 @@
 
 # Problema
 <!--<ul>
-  <li> </li>
-</ul>
--->
+  <li> Notícias falsas e sua fácil propagação na internet.</li>
+</ul>-->
+
 # Motivação
+<!--<ul>
+  <li> Atualmente temos um sério problema com notícias falsas espalhadas</li>
+</ul>-->
 
 # Proposta de Solução
